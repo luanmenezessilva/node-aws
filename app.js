@@ -7,7 +7,7 @@ app.use(express.json());
 
 // Método Get
 app.get('/', (request, response)=>{
-    return response.json({message: 'Servidor está funcionando'})
+    return response.json({message: 'Servidor está funcionando! Modificado'})
 })
 
 // Método Post
