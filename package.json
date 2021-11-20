@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luanmenezessilva/node-aws/issues"
   },
-  "homepage": "https://github.com/luanmenezessilva/node-aws#readme"
+  "homepage": "https://github.com/luanmenezessilva/node-aws#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
